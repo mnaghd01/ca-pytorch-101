@@ -36,7 +36,7 @@ and then clone the following repository:
 ```
 
 ### 4. Open the template .ipynb file from your drive
-Now, you have to navigate inside the Google Drive folder where the repo has been cloned. Once there, you just need to open, say, the file `'Pytorch101 - Lecture01.ipynb'` with Google Colab. And that's it! :smile:
+Now, you have to navigate inside the Google Drive folder where the repo has been cloned. Once there, you just need to open, say, the file `'Pytorch101_Lecture01.ipynb'` with Google Colab. And that's it! :smile:
 
 
 ## Instructor info
